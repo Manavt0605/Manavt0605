@@ -1,179 +1,123 @@
-<h1 align="center">
-  👋 Hi, I'm Manav Trivedi
-</h1>
+# 👋 Hi, I'm Manav Trivedi
 
-<h3 align="center">
-  💻 BTech IT Student | Full-Stack Developer | AI & Web Development Enthusiast
-</h3>
+### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student
+
+> Building practical web applications and exploring modern technologies.
 
 <p align="center">
-  🚀 Building projects, learning new technologies, and turning ideas into working applications.
+  <a href="https://github.com/Manavt0605">
+    <img src="https://img.shields.io/badge/GitHub-Manavt0605-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const manav = {
-    name: "Manav Trivedi",
-    education: "BTech Information Technology",
-    interests: [
-        "Web Development",
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Software Development",
-        "Database Management"
-    ],
-    currentlyLearning: [
-        "Java",
-        "Python",
-        "JavaScript",
-        "Node.js",
-        "MongoDB",
-        "AI & APIs"
-    ],
-    goal: "Become a skilled Full-Stack Developer",
-    motto: "Learn • Build • Improve 🚀"
-};
-🛠️ Technical Skills
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" /> </p>
-🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express" /> </p>
-🗄️ Database & Backend
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs,express" /> </p>
-🔧 Tools & Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
-🚀 Featured Projects
-💰 BudgetWise AI
+- 🎓 B.Tech IT Student
+- 💻 Interested in Full-Stack Web Development
+- 🤖 Exploring AI-powered applications
+- 🌐 Building responsive and user-friendly websites
+- 🧩 Interested in backend development and databases
+- 📚 Always learning new technologies
+- 🚀 Turning project ideas into working applications
 
-A web-based personal finance management application designed
-to help users record and understand their income and expenses.
+---
 
-Features:
+## 🛠️ Tech Stack
 
-🔐 User Login & Registration
-💰 Income & Expense Management
-📊 Financial Dashboard
-📈 Expense Charts
-🤖 AI-based Financial Insights
-💾 Local Data Storage
+### Frontend
 
-Technologies:
-HTML CSS JavaScript Chart.js Vite
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-🤖 WorkPlus AI
+### Backend & Database
 
-A web-based employee task management platform with an
-intelligent AI chatbot for workplace assistance.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,python" />
+</p>
 
-Features:
+### Tools
 
-🔐 Secure Employee Login
-📋 Task Assignment & Management
-📊 Task Progress Monitoring
-👨‍💼 Admin Dashboard
-🤖 AI Chatbot
-💡 AI Ideas & Suggestions
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+</p>
 
-Technologies:
-HTML CSS JavaScript Bootstrap Node.js Express.js MongoDB OpenAI API
+---
 
-🕵️ Deepfake Detection
+## 🌟 Featured Projects
 
-A web application focused on detecting and analyzing
-potential deepfake media.
+### 💰 BudgetWise AI
 
-Technologies:
-Python Flask JavaScript HTML CSS Machine Learning
+A web-based personal finance management application for managing income, expenses and financial insights.
 
-📚 Library Information System
+**Technologies:**
+`HTML` `CSS` `JavaScript` `Chart.js` `LocalStorage`
 
-A software engineering project for managing library
-books, members, and librarian operations.
+---
 
-Concepts Used:
+### 🤖 WorkPlus AI
 
-UML
-SRS
-Software Design
-Test Case Design
-Java Implementation
-📚 Currently Learning
-├── 🌐 Full-Stack Web Development
-├── ☕ Advanced Java
-├── 🐍 Python Development
-├── 🟢 Node.js & Express.js
-├── 🍃 MongoDB
-├── 🤖 AI & API Integration
-├── 🗄️ Database Management
-└── 🐧 Linux & Development Tools
-🎯 My Development Journey
-2024 ──► Programming Fundamentals
-          │
-          ▼
-       Web Development
-          │
-          ▼
-2025 ──► Java • Python • Databases
-          │
-          ▼
-       Full-Stack Projects
-          │
-          ▼
-2026 ──► AI + Full-Stack Development
-          │
-          ▼
-       Building Real Projects 🚀
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manavt0605&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavt0605&theme=tokyonight&hide_border=true" /> </p>
-📈 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavt0605&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🌱 What I'm Working Towards
-🚀 Become a Strong Full-Stack Developer
-🤖 Build AI-Powered Applications
-🌐 Create Modern Web Applications
-🗄️ Improve Database Architecture Skills
-☁️ Learn Cloud & Deployment
-💡 Build More Real-World Projects
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/Manavt0605"> <img src="https://img.shields.io/badge/GitHub-Manavt0605-black?style=for-the-badge&logo=github"/> </a> </p>
-<h3 align="center"> 💡 "Learn • Build • Improve • Repeat." </h3> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```
-🔥 Aapka GitHub profile roughly aisa lagega
+A web-based workplace platform for managing employee tasks with an AI chatbot for guidance, ideas and workplace assistance.
 
-Top:
+**Technologies:**
+`HTML` `CSS` `JavaScript` `Bootstrap` `Node.js` `Express.js` `MongoDB` `OpenAI API`
 
-👋 Hi, I'm Manav Trivedi
-💻 BTech IT Student | Full-Stack Developer | AI & Web Development Enthusiast
+---
 
-↓
+### 🔍 Deepfake Detection
 
-About Me
-↓
+A web application concept for detecting and analyzing potentially manipulated media.
 
-Technical Skills with icons
-↓
+**Technologies:**
+`Python` `Flask` `JavaScript` `HTML` `CSS`
 
-🚀 Featured Projects
+---
 
-BudgetWise AI
-WorkPlus AI
-Deepfake Detection
-Library Information System
+### 📚 Library Information System
 
-↓
+A software system designed to manage books, members and librarian operations.
 
-Currently Learning
-↓
+**Technologies:**
+`Java` `Database` `UML` `Software Engineering`
 
-Development Journey
-↓
+---
 
-GitHub Stats + Streak
-↓
+## 📊 GitHub Statistics
 
-Goals / Future Learning
-↓
+<p align="center">
 
-Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=Manavt0605&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavt0605&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavt0605&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+├── Full-Stack Development
+├── React.js
+├── Node.js
+├── Express.js
+├── MongoDB
+├── REST APIs
+├── AI Integration
+├── Cloud Deployment
+└── Software Engineering
