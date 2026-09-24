@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+  👋 Hi, I'm Manav Trivedi
+</h1>
 
-<!--
-**Manavt0605/Manavt0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 BTech IT Student | Full-Stack Developer | AI & Web Development Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Building projects, learning new technologies, and turning ideas into working applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const manav = {
+    name: "Manav Trivedi",
+    education: "BTech Information Technology",
+    interests: [
+        "Web Development",
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Software Development",
+        "Database Management"
+    ],
+    currentlyLearning: [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "AI & APIs"
+    ],
+    goal: "Become a skilled Full-Stack Developer",
+    motto: "Learn • Build • Improve 🚀"
+};
