@@ -99,16 +99,6 @@ A software system designed to manage books, members and librarian operations.
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavt0605&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ## 🎯 Currently Learning
 
 ```text
